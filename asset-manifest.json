@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/andor-album-clone/static/css/main.477c2fec.css",
+    "main.css": "/andor-album-clone/static/css/main.ed3d86ef.css",
     "main.js": "/andor-album-clone/static/js/main.1fa85778.js",
     "static/media/andor-kino-loy.jpeg": "/andor-album-clone/static/media/andor-kino-loy.46022e3c50c5f4410cd4.jpeg",
     "static/media/andor-kleya-marki.jpeg": "/andor-album-clone/static/media/andor-kleya-marki.71446d27b64c1b1bfb11.jpeg",
@@ -16,11 +16,11 @@
     "static/media/andor-cinta-kaz.jpeg": "/andor-album-clone/static/media/andor-cinta-kaz.5200d6b6aebd02b48d78.jpeg",
     "static/media/andor-vel-sartha.jpeg": "/andor-album-clone/static/media/andor-vel-sartha.66a27d759e4295550061.jpeg",
     "index.html": "/andor-album-clone/index.html",
-    "main.477c2fec.css.map": "/andor-album-clone/static/css/main.477c2fec.css.map",
+    "main.ed3d86ef.css.map": "/andor-album-clone/static/css/main.ed3d86ef.css.map",
     "main.1fa85778.js.map": "/andor-album-clone/static/js/main.1fa85778.js.map"
   },
   "entrypoints": [
-    "static/css/main.477c2fec.css",
+    "static/css/main.ed3d86ef.css",
     "static/js/main.1fa85778.js"
   ]
 }
